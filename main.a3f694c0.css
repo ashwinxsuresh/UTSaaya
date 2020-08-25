@@ -1,7 +1,5 @@
-@import url(
-  https://fonts.googleapis.com/css?family=La + Belle + Aurore|Fira + Sans:400,
-  700
-);
+@import url(https://fonts.googleapis.com/css?family=La + Belle + Aurore|Fira + Sans:400,
+  700);
 @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css); /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.
@@ -15,6 +13,12 @@
   --main-light-blue: #439cd2;
   --main-white: #deead4;
   --main-black: #000000;
+}
+
+html,
+body {
+  overflow-x: hidden;
+  max-width: 100%;
 }
 
 #fh5co-page {
@@ -37,6 +41,15 @@
 
 .img-resize {
   width: 100%;
+}
+
+#bgvid {
+  object-fit: cover;
+  width: 99vw;
+  height: 90vh;
+  position: relative;
+  top: 0;
+  left: 0;
 }
 
 .margin-left {
