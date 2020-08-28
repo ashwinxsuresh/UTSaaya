@@ -1004,6 +1004,10 @@ pre code {
     width: 100%;
     padding: auto;
   }
+
+  #saaya-xi-bg {
+    background-size: cover;
+  }
 }
 
 @media (min-width: 768px) {
