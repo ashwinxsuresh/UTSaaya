@@ -1,0 +1,23 @@
+{
+  "name": "utsaaya",
+  "version": "1.0.0",
+  "description": "UT Saaya Website",
+  "main": "main.41beeca9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.41beeca9.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suket-shah/UTSaaya.git"
+  },
+  "author": "Suket Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suket-shah/UTSaaya/issues"
+  },
+  "homepage": "https://github.com/Suket-shah/UTSaaya#readme",
+  "dependencies": {
+    "gatsby": "^2.24.50"
+  }
+}
