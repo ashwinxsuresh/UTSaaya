@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Suket-shah/UTSaaya#readme",
   "dependencies": {
-    "gatsby": "^2.24.50"
+    "gatsby": "^4.25.7"
   }
 }
